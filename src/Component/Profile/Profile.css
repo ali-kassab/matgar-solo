@@ -1,0 +1,9 @@
+.profile {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  /* margin-top: 60px; */
+  min-height: calc(100vh-366px);
+  /* background-color: aqua; */
+  height: 100%;
+}
